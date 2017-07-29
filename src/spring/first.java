@@ -11,5 +11,12 @@ public class first {
 		
 		//ufiudhfdushgisudh
 	}
-
+	
+	
+	//rkufhuedhfuedkfj
+	//wlruhfurwi
+	//uewhfiuewifewo
+	
+//	wekufiwe
+//eufhieudhfsiuwejfijewiufhoieuhfiues
 }
